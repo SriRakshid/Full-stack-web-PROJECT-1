@@ -1,0 +1,11 @@
+├── index.html
+├── gallery.html
+├── about.html
+├── contact.html
+├── css/
+│   └── style.css
+├── images/
+│   └── (use 4+ placeholder images from https://picsum.photos/)
+├── videos/
+│   └── gallery-tour.mp4 (or embed video using iframe)
+└── README.tx

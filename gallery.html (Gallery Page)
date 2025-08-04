@@ -1,1 +1,10 @@
-
+<!-- Similar header/footer as index.html -->
+<main>
+  <h1>Gallery</h1>
+  <section class="grid-gallery">
+    <div class="art-box"><img src="images/art2.jpg" alt="Artwork 1"><p>Title 1</p></div>
+    <div class="art-box"><img src="images/art3.jpg" alt="Artwork 2"><p>Title 2</p></div>
+    <div class="art-box"><img src="images/art4.jpg" alt="Artwork 3"><p>Title 3</p></div>
+    <div class="art-box"><img src="images/art5.jpg" alt="Artwork 4"><p>Title 4</p></div>
+  </section>
+</main>

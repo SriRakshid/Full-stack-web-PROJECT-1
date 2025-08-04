@@ -1,0 +1,20 @@
+<main>
+  <h1>Contact Us</h1>
+  <p><strong>Address:</strong> 123 Art Lane, Creativity City</p>
+  <p><strong>Email:</strong> info@modernframe.com</p>
+  <p><strong>Phone:</strong> +91-1234567890</p>
+
+  <h2>Studio Hours</h2>
+  <table>
+    <thead>
+      <tr><th>Day</th><th>Opening Time</th><th>Closing Time</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Monday</td><td>10:00 AM</td><td>6:00 PM</td></tr>
+      <tr><td>Tuesday</td><td>10:00 AM</td><td>6:00 PM</td></tr>
+      <tr><td>Saturday</td><td>12:00 PM</td><td>4:00 PM</td></tr>
+    </tbody>
+  </table>
+
+  <p><a href="https://example.com/virtual-tour" target="_blank" rel="noopener">Take a virtual tour</a></p>
+</main>

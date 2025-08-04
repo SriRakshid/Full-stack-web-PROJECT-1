@@ -1,0 +1,19 @@
+<main>
+  <h1>About The Gallery</h1>
+  <p>The Modern Frame was established in 2010...</p>
+  <h2>Notable Artists</h2>
+  <ul>
+    <li>Jane Doe</li>
+    <li>Mark Smith</li>
+  </ul>
+  <h2>Past Exhibitions</h2>
+  <ol>
+    <li>Color in Motion - 2022</li>
+    <li>Abstract Horizons - 2023</li>
+  </ol>
+  <h2>Gallery Staff</h2>
+  <ul>
+    <li>Director: Alice Johnson</li>
+    <li>Curator: Rahul Patel</li>
+  </ul>
+</main>
